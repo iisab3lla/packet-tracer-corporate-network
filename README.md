@@ -8,7 +8,7 @@ A corporate network infrastructure project designed to connect a headquarters of
 
 ![Network Topology](./A3.png)
 
-</div>
+</div> 
 
 <div align="center">
 
